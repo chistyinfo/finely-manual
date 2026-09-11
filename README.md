@@ -17,9 +17,13 @@ Users can immediately start adding transactions using Cash without creating any 
 
 If you have a bank account, you can create it as a new expense source.
 
+Click Expense > Click Wallet/Account Cash > click + New 
+<img width="533" height="787" alt="add-source" src="https://github.com/user-attachments/assets/db9aee17-73cd-4e73-ab44-876215b33a34" />
+
 Simply provide:
 
 * 🏦 **Bank / Provider Name**
+
 * 💰 **Initial Balance**
 
 For example:
