@@ -133,9 +133,35 @@ To record the transfer:
 <img width="348" height="880" alt="transfer" src="https://github.com/user-attachments/assets/ae8f9e54-9250-4fcc-b582-4f6fa50f9cc4" />
 
 **Done!** The amount will be transferred from **CBL** to **DBBL** in your Finely account records.
-
-
-
-
 This makes it easier to understand **where the money was spent from** and maintain accurate balances across Cash, Bank Accounts, and Credit Cards.
+
+### Advanced Section
+
+### Step 6: Borrow Money from a Person
+
+If you need urgent money and borrow it from someone, Finely allows you to record the borrowing and keep track of the amount you owe.
+
+**Example:**
+You borrow money from your friend **Mr. Jhon** and receive the money through your **DBBL bank account**.
+
+To record the borrowed money:
+
+1. **Enter Amount:** Enter the amount you want to borrow in the Amount field.
+2. **Select Receive Payment:** Choose the **Receive Payment** tab because you are receiving borrowed money.
+3. **Enter Person Name:** Enter the person's name, for example, **Mr. Jhon**.
+4. **Select Source:** Choose where you received the money, such as **DBBL**.
+5. **Add Description:** Enter a short description, such as **“Borrowed money from Mr. Jhon.”**
+6. **Save Transaction:** Finally, tap **Save Transaction**.
+   
+<img width="348" height="880" alt="Borrow money" src="https://github.com/user-attachments/assets/6235cd8c-b97a-45e5-acfc-772bff3133da" />
+
+**Done!** Your borrowing will now be recorded in Finely.
+
+To check your borrowed money, tap the **People icon** at the top of the Main Page. You will see that you borrowed money from **Mr. Jhon**.
+
+<img width="800" height="312" alt="lend" src="https://github.com/user-attachments/assets/3898fee3-fe45-488e-b81c-3301974a509e" />
+
+
+When you repay the borrowed amount in the future, Finely will redirect you to the **Transfer** page so you can record the repayment.
+
 
