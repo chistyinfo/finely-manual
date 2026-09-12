@@ -1,7 +1,7 @@
 # finely-manual
 📘 Official user manual and documentation for Finely – Money &amp; Budget Manager. Learn how to manage income, expenses, budgets, loans, reports, and more.It's represents how to use finely of new user 
 
-⚙️ Step 1: Set Your Currency
+## ⚙️ Step 1: Set Your Currency
 
 Before adding any income, expenses, or budgets, it's recommended to set up your preferred currency symbol in Finely.
 
