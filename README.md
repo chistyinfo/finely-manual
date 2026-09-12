@@ -92,7 +92,6 @@ If you need a category that is not included, you can easily create your own cust
 
 **Expenses → Category → + Custom**
 <img width="347" height="645" alt="custom-category" src="https://github.com/user-attachments/assets/26fc8e50-cf59-495e-97e6-a3a8f51a4646" />
-
 Enter your preferred category name and save it. Your new category will then be available when adding expenses.
 
 
