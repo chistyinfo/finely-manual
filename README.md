@@ -107,6 +107,34 @@ To record the expense:
 5. **Save Transaction:** Finally, tap **Save Transaction** to record the expense.
 <img width="348" height="880" alt="entry an expenses" src="https://github.com/user-attachments/assets/69c28dea-2783-4258-a24f-0d11f7c1e795" />
 
+### Advanced Section
+
+### Step 5: Transfer Money Between Sources
+
+Finely allows you to transfer money from one source to another, such as from one bank card to another.
+
+**Example:**
+You have two sources:
+
+* **DBBL** — Debit Card
+* **CBL** — Credit Card
+
+You want to transfer **$50 from your CBL credit card to your DBBL debit card**.
+
+To record the transfer:
+
+1. **Enter Amount:** Enter **$50** in the Amount field.
+2. **Select Source:** Choose **CBL** as the source.
+3. **Select Destination:** Choose **DBBL** as the destination.
+4. **Transfer Fee:** If there is any transfer fee, enter the fee in the Transfer Fee field.
+5. **Add Description:** Enter a short description, such as **“Transfer from CBL to DBBL.”**
+6. **Save Transaction:** Finally, tap **Save Transaction**.
+   
+<img width="348" height="880" alt="transfer" src="https://github.com/user-attachments/assets/ae8f9e54-9250-4fcc-b582-4f6fa50f9cc4" />
+
+**Done!** The amount will be transferred from **CBL** to **DBBL** in your Finely account records.
+
+
 
 
 This makes it easier to understand **where the money was spent from** and maintain accurate balances across Cash, Bank Accounts, and Credit Cards.
