@@ -94,6 +94,20 @@ If you need a category that is not included, you can easily create your own cust
 <img width="347" height="645" alt="custom-category" src="https://github.com/user-attachments/assets/26fc8e50-cf59-495e-97e6-a3a8f51a4646" />
 Enter your preferred category name and save it. Your new category will then be available when adding expenses.
 
+### Step 4: Enter an Expense
+
+For example, you spent **$5 on Vegetables** and paid using your **DBBL bank card**.
+
+To record the expense:
+
+1. **Enter Amount:** Enter **$5** in the Amount field.
+2. **Choose Category:** Select **Vegetables**.
+3. **Choose Source:** Select **DBBL**, since you paid using your bank card.
+4. **Add Description / Particulars:** Enter a short description, such as **“Vegetables purchase.”**
+5. **Save Transaction:** Finally, tap **Save Transaction** to record the expense.
+<img width="348" height="880" alt="entry an expenses" src="https://github.com/user-attachments/assets/69c28dea-2783-4258-a24f-0d11f7c1e795" />
+
+
 
 This makes it easier to understand **where the money was spent from** and maintain accurate balances across Cash, Bank Accounts, and Credit Cards.
 
