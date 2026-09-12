@@ -82,7 +82,19 @@ A user may have the following sources:
 | 🏦 Bank Account | City Bank     | Bank Account |
 | 💳 Credit Card  | BRAC Bank     | Credit Card  |
 
-When adding an expense, the user can select which source was used for that transaction.
+### Step 3: Add Expense Category
+
+Finely comes with **13 built-in expense categories** by default.
+
+If you need a category that is not included, you can easily create your own custom category.
+
+**To add a custom category:**
+
+**Expenses → Category → + Custom**
+<img width="547" height="845" alt="custom-category" src="https://github.com/user-attachments/assets/26fc8e50-cf59-495e-97e6-a3a8f51a4646" />
+
+Enter your preferred category name and save it. Your new category will then be available when adding expenses.
+
 
 This makes it easier to understand **where the money was spent from** and maintain accurate balances across Cash, Bank Accounts, and Credit Cards.
 
