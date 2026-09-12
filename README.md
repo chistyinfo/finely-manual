@@ -1,6 +1,24 @@
 # finely-manual
 📘 Official user manual and documentation for Finely – Money &amp; Budget Manager. Learn how to manage income, expenses, budgets, loans, reports, and more.It's represents how to use finely of new user 
 
+⚙️ Step 1: Set Your Currency
+
+Before adding any income, expenses, or budgets, it's recommended to set up your preferred currency symbol in Finely.
+
+💱 Change Currency Symbol
+
+By default, Finely may display a currency that doesn't match your local currency. You can easily change this from the app settings.
+
+Simply:
+
+Click the Settings icon on the top right side of the main screen
+Go to Preferences
+Scroll through the list and select your desired currency
+
+Navigation path: Settings > Preferences > Currency
+
+Once selected, Finely will update all amounts across the app — income, expenses, budgets, and reports — to reflect your chosen currency symbol.
+
 ## 💳 Step 2: Set Up Your Expense Source
 
 Before adding and tracking expenses, Finely allows you to manage the **source of your money**.
